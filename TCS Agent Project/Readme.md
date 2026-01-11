@@ -16,8 +16,6 @@ Agent chosen function - Be able to query upon a large collection of files (valid
 
 Use of LLM: For creation of metadata while creating documents for RAG model
 
-I will also add RAG evaluation functions to test for production ready
-
 
 
 Dependencies:
@@ -131,6 +129,12 @@ Parallelize ingestion
 Step 4:
 
 Parallelize retrieval
+
+
+
+Step 5:
+
+Add RAG Evaluation function to evaluate 1) Correctness, 2) Relevance, 3) Retrieval Relevance, and 4) Groundedness
 
 
 
