@@ -14,6 +14,7 @@ Dependencies:
 Make sure to install Ollama in your machine as this uses LLM models from Ollama
 Run the following commands to install dependencies:
 (if pip does not work try pip3 or another method to install this python libraries)
+
 pip install chromadb
 pip install sentence-transformers
 pip install pypdf
